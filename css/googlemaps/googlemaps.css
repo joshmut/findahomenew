@@ -1,0 +1,16 @@
+/*
+	Document	:	googlemaps.css
+	Created		:	10/12/2013 2:01PM
+	Author		:	chegzcol
+
+*/
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+		
+}
+#ps_map-canvas{
+	width: 500px;
+	height: 380px;
+}
